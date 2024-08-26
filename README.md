@@ -1,5 +1,6 @@
 ### Hello All👋
-Rizky Ramadhan S - Senior CS student at Padjadjaran University
+Rizky Ramadhan S - Senior CS student at Padjadjaran University  
+Subspecialties in time series forecasting and sentiment analysis
 <p>My GitHub's stats: </p>
 <p align="left">
 <a href="https://github.com/rizr09">
@@ -9,7 +10,7 @@ Rizky Ramadhan S - Senior CS student at Padjadjaran University
 </p>
 
 🔭 I’m currently working at Center for Communication, Media, and Culture Studies Padjadjaran University  
-🌱 I’m currently learning Graph Neural Network application in Finance   
-💬 Ask me about teaching and machine learning  
+🌱 I’m currently learning Graph Neural Network (GNN) application in finance   
+💬 Ask me about machine learning and automation  
 📫 How to reach me: /rizr09  
 ⚡ Fun fact: word of affirmation guy
