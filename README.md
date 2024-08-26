@@ -1,5 +1,5 @@
 ### Hello All👋
-Rizky Ramadhan S - Junior CS student at Padjadjaran University
+Rizky Ramadhan S - Senior CS student at Padjadjaran University
 <p>My GitHub's stats: </p>
 <p align="left">
 <a href="https://github.com/rizr09">
@@ -8,8 +8,8 @@ Rizky Ramadhan S - Junior CS student at Padjadjaran University
 </a>
 </p>
 
-🔭 I’m currently developing TEDxUnpad website  
-🌱 I’m currently learning data analytics  
+🔭 I’m currently working at Center for Communication, Media, and Culture Studies Padjadjaran University  
+🌱 I’m currently learning Graph Neural Network application in Finance   
 💬 Ask me about teaching and machine learning  
 📫 How to reach me: /rizr09  
 ⚡ Fun fact: word of affirmation guy
