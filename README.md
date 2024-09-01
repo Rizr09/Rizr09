@@ -1,6 +1,6 @@
 ### Hello All👋
 Rizky Ramadhan S - Senior CS student at Padjadjaran University  
-Subspecialties in time series forecasting and sentiment analysis
+Subspecialties: time series forecasting and sentiment analysis
 <p>My GitHub's stats: </p>
 <p align="left">
 <a href="https://github.com/rizr09">
@@ -9,7 +9,9 @@ Subspecialties in time series forecasting and sentiment analysis
 </a>
 </p>
 
-🔭 I’m currently working at Center for Communication, Media, and Culture Studies Padjadjaran University  
+[Kaggle](https://www.kaggle.com/rizr09) | [Medium](https://medium.com/@rizr09) | [LinkedIn](https://www.linkedin.com/in/rizr09/)
+
+🔭 I’m currently working at BPJS Ketenagakerjaan as a data scientist  
 🌱 I’m currently learning Graph Neural Network (GNN) application in finance   
 💬 Ask me about machine learning and automation  
 📫 How to reach me: /rizr09  
