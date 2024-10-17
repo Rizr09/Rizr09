@@ -1,6 +1,6 @@
 ### Hello All👋
 Rizky Ramadhan S - Senior CS student at Padjadjaran University  
-Subspecialties: time series forecasting and sentiment analysis
+Subspecialties: financial forecasting and sentiment analysis
 <p>My GitHub's stats: </p>
 <p align="left">
 <a href="https://github.com/rizr09">
