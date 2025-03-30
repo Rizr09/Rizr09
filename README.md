@@ -11,8 +11,8 @@ Subspecialties: financial forecasting and sentiment analysis
 
 [Kaggle](https://www.kaggle.com/rizr09) | [Medium](https://medium.com/@rizr09) | [LinkedIn](https://www.linkedin.com/in/rizr09/)
 
-🔭 I’m currently working at BPJS Ketenagakerjaan as a data scientist  
-🌱 I’m currently learning Graph Neural Network (GNN) application in finance   
+🔭 I’m currently working at Ministry of Finance, Indonesia as a fixed income analyst  
+🌱 I’m currently learning financial engineering   
 💬 Ask me about machine learning and automation  
 📫 How to reach me: /rizr09  
 ⚡ Fun fact: word of affirmation guy
