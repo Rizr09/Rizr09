@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Rizky 👋</h1>
 
 <p align="center">
-  <b>Data & Finance Nerd • CS Grad @ Unpad • AI & Investment Enthusiast</b><br>
+  <b>Data & Finance Nerd • CS Grad @ Unpad</b><br>
   Specializing in financial engineering, automation, and AI agentic.<br>
 </p>
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier" />
 
   <!-- Other Tools -->
-  <img src="https://img.shields.io/badge/-Bloomberg-D8D8D8?style=flat&logo=bloomberg&logoColor=black" alt="Bloomberg Terminal" />
+  <img src="https://img.shields.io/badge/-Bloomberg_Terminal-D8D8D8?style=flat&logo=bloomberg&logoColor=black" alt="Bloomberg Terminal" />
 </p>
 
 ---
