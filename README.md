@@ -54,14 +54,6 @@
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizr09&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizr09&layout=compact&theme=radical" />
-</p>
-
----
-
 ## Now Playing on Spotify
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fc8y4939uhihepg1ey5bvvvs6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
