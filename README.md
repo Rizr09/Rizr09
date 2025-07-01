@@ -12,7 +12,7 @@
 ## Currently
 - Fresh Graduate CS from Padjadjaran University (GPA 3.93)
 - Forecast Analyst Intern @ Ministry of Finance, Republic of Indonesia
-- Currently Learning: Fixed Income & Derivative
+- Learning Fixed Income & Derivative
 
 ---
 
